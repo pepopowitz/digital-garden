@@ -1,9 +1,10 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Sprouts!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+This is my digital garden, where I plant seeds of ideas and let them grow. It's a place for me to explore, learn, and share. (CoPilot wrote that poetic introduction.)
+
+It is based on the template from the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden).
 
 ---
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+
+## Plugin Docs
+Plugin Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
