@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-03T11:57:02.204-06:00","updated":"2025-01-03T16:28:08.475-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-03T11:57:02.204-06:00","updated":"2025-01-03T17:31:41.690-06:00"}
 ---
 
 
@@ -11,22 +11,27 @@
 	- But I have lots of thoughts throughout the day that would be fine as short-form posts.
 	- And I like the idea of building drafts of longer-form writing in public.
 	- Plus, short-form in the form of social media posts feels dead to me at this point. No engagement, and I change main drivers every 6 months.
-- Soooooo I've set up this digital garden, using Obsidian, and the Digital Garden extension to publish it. 
+- Soooooo I've set up this digital garden, using Obsidian, and the [Digital Garden](https://dg-docs.ole.dev/) extension to publish it. 
 
 ## Things I did after the initial setup
 - [x] Get timestamps displaying
-	- [ ] This was a setting that I overlooked.
+	- This was a setting that I overlooked.
+- [x] Add a display for all content? Most of it is currently orphaned because I don't do a lot of cross-note linking
+	- Even though [Anne-Laure says I shouldn't keep orphan notes](https://www.mentalnodes.com/do-not-keep-orphan-notes)
+	- This was accomplished by enabling more settings that I'd overlooked.
 - Ensure there is a solid sitemap & RSS feed
 	- I needed to configure the base URL in the extension settings in order for it to generate these.
-	- But then there was a bug with the RSS feed: [the generator was removing the self-close slash from link elements](https://github.com/oleeskild/obsidian-digital-garden/issues/493)
+		- And to configure the base URL, I needed an actual URL. So I promoted the site to a custom subdomain in netlify.
+	- There was a bug with the RSS feed: [the generator was removing the self-close slash from link elements](https://github.com/oleeskild/obsidian-digital-garden/issues/493)
 		- As discussed in that thread, [the solution was to use _five_ slashes](https://github.com/oleeskild/obsidian-digital-garden/issues/493#issuecomment-1825034758) to escape one slash. Obligatory [Onion reference](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/).
 		- My commit: https://github.com/pepopowitz/digital-garden/commit/4397077e599e237586dce9d2e2dc08b64d7c7741
-- fix horrible contrast of header 
-	- (and move the header element theres)
+- [x] fix horrible contrast of header for the theme I'm using ([RetroNotes](https://github.com/sr-campelo/retronotes))
+	- (and other elements that weren't initially enabled) 
+	- (and move the header element to the actual site header rather than the page content heading)
+	- Commit: https://github.com/pepopowitz/digital-garden/commit/f21fa399335494d505f0f81fc4837bea214f3030
+	- I still don't know why but I struggled with specificity on the header h1. I had to give the element a class in order to target it without the base CSS being somehow more specific.
+- Prove in Obsidian that I can easily create content here & link to it from my daily notes
 - Add a header to link it back to my blog/site
 - Add a link to it in my site's header
-- Prove in Obsidian that I can easily create content here & link to it from my daily notes
 - Add a feed somewhere for most recent updates
-- Add a display for all content? Most of it is currently orphaned because I don't do a lot of cross-note linking
-	- Even though [Anne-Laure says I shouldn't keep orphan notes](https://www.mentalnodes.com/do-not-keep-orphan-notes)
 - Automate posting updates to socials? 

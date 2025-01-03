@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/art-school/2024-12-15-digital-portraits-in-procreate-with-graphical-elements/","created":"2024-12-15T16:50:23.366-06:00","updated":"2025-01-03T12:05:56.305-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/art-school/2024-12-15-digital-portraits-in-procreate-with-graphical-elements/","created":"2024-12-15T16:50:23.366-06:00","updated":"2025-01-03T16:34:08.774-06:00"}
 ---
 
 ## takeaways
