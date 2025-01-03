@@ -4,6 +4,10 @@ This is my digital garden, where I plant seeds of ideas and let them grow. It's 
 
 It is based on the template from the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden).
 
+## Live URL
+
+https://sprouts.stevenhicks.me
+
 ---
 
 ## Plugin Docs
