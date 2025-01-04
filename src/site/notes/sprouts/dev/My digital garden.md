@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-03T11:57:02.204-06:00","updated":"2025-01-03T17:31:41.690-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-03T11:57:02.204-06:00","updated":"2025-01-03T21:16:22.327-06:00"}
 ---
 
 
@@ -13,13 +13,13 @@
 	- Plus, short-form in the form of social media posts feels dead to me at this point. No engagement, and I change main drivers every 6 months.
 - Soooooo I've set up this digital garden, using Obsidian, and the [Digital Garden](https://dg-docs.ole.dev/) extension to publish it. 
 
-## Things I did after the initial setup
+## Things to do beyond the default setup
 - [x] Get timestamps displaying
 	- This was a setting that I overlooked.
 - [x] Add a display for all content? Most of it is currently orphaned because I don't do a lot of cross-note linking
 	- Even though [Anne-Laure says I shouldn't keep orphan notes](https://www.mentalnodes.com/do-not-keep-orphan-notes)
 	- This was accomplished by enabling more settings that I'd overlooked.
-- Ensure there is a solid sitemap & RSS feed
+- [x] Ensure there is a solid sitemap & RSS feed
 	- I needed to configure the base URL in the extension settings in order for it to generate these.
 		- And to configure the base URL, I needed an actual URL. So I promoted the site to a custom subdomain in netlify.
 	- There was a bug with the RSS feed: [the generator was removing the self-close slash from link elements](https://github.com/oleeskild/obsidian-digital-garden/issues/493)
@@ -30,8 +30,15 @@
 	- (and move the header element to the actual site header rather than the page content heading)
 	- Commit: https://github.com/pepopowitz/digital-garden/commit/f21fa399335494d505f0f81fc4837bea214f3030
 	- I still don't know why but I struggled with specificity on the header h1. I had to give the element a class in order to target it without the base CSS being somehow more specific.
-- Prove in Obsidian that I can easily create content here & link to it from my daily notes
-- Add a header to link it back to my blog/site
-- Add a link to it in my site's header
-- Add a feed somewhere for most recent updates
-- Automate posting updates to socials? 
+- [x] Prove in Obsidian that I can easily create content here & link to it from my daily notes
+- [ ] Fix contrast of search results
+- [ ] Meta tags & opengraph data
+	- see https://dg-docs.ole.dev/advanced/note-specific-settings/#metatags
+- [ ] Social sharing image
+- [ ] Add a header to link it back to my blog/site
+- [ ] Add a link to it in my site's header
+- [ ] favicon
+- [ ] logo, branding
+- [ ] Add a feed somewhere for most recent updates
+- [ ] Use tags?
+- [ ] Automate posting updates to socials? 
