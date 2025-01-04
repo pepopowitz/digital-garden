@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-5/","tags":["linocut","art"],"created":"2025-01-03T11:36:28.943-06:00","updated":"2025-01-03T21:32:18.482-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-5/","metatags":{"description":"Linocut experimentation","keywords":"linocut, printmaking"},"tags":["linocut","art"],"created":"2025-01-03T11:36:28.943-06:00","updated":"2025-01-03T21:33:12.738-06:00"}
 ---
 
 
