@@ -8,4 +8,9 @@ body {
   .filetree-sidebar {
     background: var(--background-primary);
   }
+
+  #search-results .searchresult {
+    background-color: var(--background-primary);
+    border: 1px solid var(--background-secondary);
+  }
 }
