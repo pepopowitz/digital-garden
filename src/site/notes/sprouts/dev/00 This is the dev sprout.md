@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/00-this-is-the-dev-sprout/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-06T09:36:31.698-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/00-this-is-the-dev-sprout/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-06T12:43:00.834-06:00"}
 ---
 
 # This is the **dev** sprout.
 
 ## Current faves
 
+[[sprouts/dev/Better macOS Windows and Spaces???\|Better macOS Windows and Spaces???]]
 [[sprouts/dev/My digital garden\|My digital garden]]
