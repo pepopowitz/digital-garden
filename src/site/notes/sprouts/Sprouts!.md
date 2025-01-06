@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/sprouts/","tags":["gardenEntry"],"created":"2024-11-25T23:20:20.680-06:00","updated":"2025-01-03T21:04:17.412-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/sprouts/","tags":["gardenEntry"],"created":"2025-01-06T09:36:31.694-06:00","updated":"2025-01-06T09:36:31.694-06:00"}
 ---
 
 # Sprouts!

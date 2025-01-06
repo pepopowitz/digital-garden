@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/00-this-is-the-dev-sprout/","created":"2025-01-03T11:56:01.404-06:00","updated":"2025-01-03T15:12:48.837-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/00-this-is-the-dev-sprout/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-06T09:36:31.698-06:00"}
 ---
 
 # This is the **dev** sprout.

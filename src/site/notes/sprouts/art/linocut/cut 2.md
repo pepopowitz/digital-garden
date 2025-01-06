@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-2/","created":"2024-11-25T23:18:32.383-06:00","updated":"2025-01-03T11:30:29.520-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-2/","created":"2025-01-06T09:36:31.696-06:00","updated":"2025-01-06T09:36:31.697-06:00"}
 ---
 
 # cut 2: leaves (oak)

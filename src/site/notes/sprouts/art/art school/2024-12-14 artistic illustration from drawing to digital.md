@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/art-school/2024-12-14-artistic-illustration-from-drawing-to-digital/","created":"2024-12-14T21:15:44.439-06:00","updated":"2025-01-03T12:05:59.129-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/art-school/2024-12-14-artistic-illustration-from-drawing-to-digital/","created":"2025-01-06T09:36:31.695-06:00","updated":"2025-01-06T09:36:31.695-06:00"}
 ---
 
 https://www.domestika.org/en/courses/2254-artistic-illustration-from-drawing-to-digital

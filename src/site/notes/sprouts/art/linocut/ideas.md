@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/linocut/ideas/","created":"2024-12-02T20:04:12.331-06:00","updated":"2025-01-03T14:50:52.217-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/linocut/ideas/","created":"2025-01-06T09:36:31.697-06:00","updated":"2025-01-06T09:36:31.698-06:00"}
 ---
 
 

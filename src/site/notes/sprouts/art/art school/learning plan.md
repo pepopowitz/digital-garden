@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/art-school/learning-plan/","created":"2024-12-14T21:32:58.519-06:00","updated":"2025-01-03T16:25:46.589-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/art-school/learning-plan/","created":"2025-01-06T09:36:31.696-06:00","updated":"2025-01-06T09:36:31.696-06:00"}
 ---
 
 

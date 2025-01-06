@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/art-school/2024-11-29-intro-to-modernist-logo-design/","created":"2024-11-29T22:53:07.365-06:00","updated":"2025-01-03T12:06:02.076-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/art-school/2024-11-29-intro-to-modernist-logo-design/","created":"2025-01-06T09:36:31.695-06:00","updated":"2025-01-06T09:36:31.695-06:00"}
 ---
 
 https://www.domestika.org/en/courses/4595-introduction-to-modernist-logo-design

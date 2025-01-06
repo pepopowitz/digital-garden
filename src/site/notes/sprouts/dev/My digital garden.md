@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-03T11:57:02.204-06:00","updated":"2025-01-03T21:16:22.327-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-06T09:36:31.698-06:00"}
 ---
 
 
@@ -31,7 +31,7 @@
 	- Commit: https://github.com/pepopowitz/digital-garden/commit/f21fa399335494d505f0f81fc4837bea214f3030
 	- I still don't know why but I struggled with specificity on the header h1. I had to give the element a class in order to target it without the base CSS being somehow more specific.
 - [x] Prove in Obsidian that I can easily create content here & link to it from my daily notes
-- [ ] Fix contrast of search results
+- [x] Fix contrast of search results
 - [ ] Meta tags & opengraph data
 	- see https://dg-docs.ole.dev/advanced/note-specific-settings/#metatags
 - [ ] Social sharing image
