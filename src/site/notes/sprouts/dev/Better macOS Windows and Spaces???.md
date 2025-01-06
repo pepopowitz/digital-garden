@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-06T12:45:38.563-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-06T12:48:00.902-06:00"}
 ---
 
 # Journey to better macOS windows and spaces.
@@ -29,7 +29,7 @@ This worked for months!
 
 IT yelled at me for not updating my operating system to Sequoia, so I did that one day.....and Yabai stopped working for moving windows to spaces. It's tracked at https://github.com/koekeishiya/yabai/issues/2500, and multiple other issues.
 
-When it happened I tried a few other approaches again, though I didn't keep notes. I couldn't find a fix, and I moved windows to different spaces **like a cave person** for months. 
+When it happened I tried a few other approaches again, though I didn't keep notes. I couldn't find a fix, and I moved windows to different spaces _with my mouse_ **like a cave person** for months. 
 
 ### Pavlos always has answers
 
