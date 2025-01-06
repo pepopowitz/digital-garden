@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-06T09:36:31.698-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-06T12:44:32.814-06:00"}
 ---
 
 
@@ -42,3 +42,4 @@
 - [ ] Add a feed somewhere for most recent updates
 - [ ] Use tags?
 - [ ] Automate posting updates to socials? 
+- [ ] Annoying bug: when writing content on one machine, and then pulling it to a second, it updates the created/edited timestamps. 

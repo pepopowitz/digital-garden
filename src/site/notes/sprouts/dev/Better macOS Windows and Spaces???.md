@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-06T12:39:37.385-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-06T12:45:38.563-06:00"}
 ---
 
+# Journey to better macOS windows and spaces.
 The macOS Spaces implementation and I go way back. I have had a love/hate relationship with Spaces since owning my first mac. On the one hand, Spaces presents a seductive interface that aligns with my mental model of how I want to organize my desktop. On the other hand, it takes about 3 minutes of usage to discover that it was implemented as an MVP, and the product team was obviously disbanded after the first release and no improvements have been made.
 
 I keep anywhere from 3 to 7 spaces active on my laptop at all times. Each of them holds windows associated with a specific project or task (except right after I restart my computer, because all browsers end up on the first space after a reboot until I manually move them back 😠). I have no way to remember which space contains which project/task except by looking, because I can't name the spaces 😠...but I can usually tell pretty quickly by looking at the open windows in Mission Control.
