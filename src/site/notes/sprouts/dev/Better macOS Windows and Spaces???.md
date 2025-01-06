@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-06T12:48:00.902-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-06T12:50:47.409-06:00"}
 ---
 
 # Journey to better macOS windows and spaces.
@@ -35,7 +35,7 @@ When it happened I tried a few other approaches again, though I didn't keep note
 
 In a chat with my friend [Pavlos](https://bsky.app/profile/pav.vin), he was demoing his micro-blogging toolset ([including lmno.lol](https://lmno.lol/pvinis)), and he just casually mentioned Yabai. So we ended up talking about that for a bit, and it reminded me of my current cave person window movement conditions and I complained about it to him.
 
-He mentioned [aerospace](https://nikitabobko.github.io/AeroSpace/guide), which I'll come back to.
+He mentioned [AeroSpace](https://nikitabobko.github.io/AeroSpace/guide), which I'll come back to.
 
 But he also prompted me to remember what my issue was, and find out if Yabai had fixed it.
 
@@ -55,9 +55,9 @@ Me too!!!
 
 So now I'm switching back to Raycast for this feature. (Though OMG is the animation slowwwwwww, I'm sure that's the OS not Raycast, but uuuuugggghhhhhh.)
 
-## Is Aerospace the better implementation of spaces that I've been looking for???!!!!
+## Is AeroSpace the better implementation of spaces that I've been looking for???!!!!
 
-Ok so I can move windows to spaces again....but I got just far enough into [the Aeroplane docs](https://nikitabobko.github.io/AeroSpace/guide#emulation-of-virtual-workspaces) to be very very very intrigued. 
+Ok so I can move windows to spaces again....but I got just far enough into [the AeroSpace docs](https://nikitabobko.github.io/AeroSpace/guide#emulation-of-virtual-workspaces) to be very very very intrigued. 
 
 They had me at "Native macOS Spaces have a lot of problems": 
 
@@ -75,6 +75,6 @@ They had me at "Native macOS Spaces have a lot of problems":
 > 
 > Since Spaces are so hard to deal with, AeroSpace reimplements Spaces and calls them "Workspaces".
 
-I have a few things I'd add to that list (can't name a space, rebooting resets spaces for some apps but not others, ...) but **omg Aerospace you are speaking my language**. I have a dream of being able to spin up spaces willy nilly as I start tasks, and I have yet to find anything that remotely made this possible.
+I have a few things I'd add to that list (can't name a space, rebooting resets spaces for some apps but not others, ...) but **omg AeroSpace you are speaking my language**. I have a dream of being able to spin up spaces willy nilly as I start tasks, and I have yet to find anything that remotely made this possible.
 
 Is this the thing I need in my life? I'll update with my findings.
