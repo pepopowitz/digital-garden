@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-06T12:50:47.409-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"]}
 ---
 
 # Journey to better macOS windows and spaces.
@@ -77,4 +77,4 @@ They had me at "Native macOS Spaces have a lot of problems":
 
 I have a few things I'd add to that list (can't name a space, rebooting resets spaces for some apps but not others, ...) but **omg AeroSpace you are speaking my language**. I have a dream of being able to spin up spaces willy nilly as I start tasks, and I have yet to find anything that remotely made this possible.
 
-Is this the thing I need in my life? I'll update with my findings.
+Is this the thing I need in my life? I'll update with my findings at [[sprouts/dev/AeroSpace\|AeroSpace]].
