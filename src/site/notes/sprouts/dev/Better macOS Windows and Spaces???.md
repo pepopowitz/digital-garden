@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"]}
+{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-07T10:37:28.336-06:00"}
 ---
 
 # Journey to better macOS windows and spaces.

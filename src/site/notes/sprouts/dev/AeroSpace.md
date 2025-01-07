@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/aero-space/","tags":["macos","spaces"]}
+{"dg-publish":true,"permalink":"/sprouts/dev/aero-space/","tags":["macos","spaces"],"created":"2025-01-07T10:26:45.847-06:00","updated":"2025-01-07T10:47:18.843-06:00"}
 ---
 
 	- this video made me HYPED to try it out: https://www.youtube.com/watch?v=xdHPmChLVl0&t=2m50s
