@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/zed/","created":"2025-01-07T15:16:29.215-06:00","updated":"2025-01-09T13:33:28.732-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/zed/","tags":["tools"],"created":"2025-01-07T15:16:29.215-06:00","updated":"2025-01-09T13:34:43.370-06:00"}
 ---
 
-I'm chasing the hype of [Zed](https://zed.dev), and taking it for a spin. 
+	I'm chasing the hype of [Zed](https://zed.dev), and taking it for a spin. 
 
 **Verdict** (Jan 9, 2025): I can't use it until it has built-in git visualization. I find myself opening VS Code just to view my staged/local changes. The speed is great, and especially the fact that it can handle changing branches in very large projects with no noticeable effects, but the lack of a git interface is a deal-breaker for me.
 
