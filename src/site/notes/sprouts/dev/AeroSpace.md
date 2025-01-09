@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/aero-space/","tags":["macos","spaces"],"created":"2025-01-07T10:26:45.847-06:00","updated":"2025-01-07T14:12:11.072-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/aero-space/","tags":["macos","spaces"],"created":"2025-01-07T10:26:45.847-06:00","updated":"2025-01-07T14:29:56.787-06:00"}
 ---
 
 - this video made me HYPED to try it out: https://www.youtube.com/watch?v=xdHPmChLVl0&t=2m50s
@@ -10,6 +10,7 @@
 				- aside from coloring the active border, not as useful/necessary as sketchybar I don't think
 				- [examples](https://github.com/FelixKratz/SketchyBar/discussions/47)
 - concerned that I'll have to re-learn tiling. I am using Divvy for tiIing and I like it, I only really want the space management features of AeroSpace.
+	- Though with auto-tiling and accordion features, I think I could adapt to this.
 - another video: https://www.youtube.com/watch?v=-FoWClVHG5g
 	- shows a lot more detail about commands & events
 	- also shows default aerospace functionality, without sketchybar/jankyborders on top of it.

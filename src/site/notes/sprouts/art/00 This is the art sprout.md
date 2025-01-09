@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/00-this-is-the-art-sprout/","created":"2025-01-06T09:36:31.695-06:00","updated":"2025-01-06T09:36:31.695-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/00-this-is-the-art-sprout/","created":"2025-01-06T09:36:31.695-06:00","updated":"2025-01-07T15:18:36.732-06:00"}
 ---
-
-# This is the **art** sprout.
 
 ## current faves
 

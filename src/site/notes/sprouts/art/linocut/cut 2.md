@@ -1,26 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-2/","created":"2025-01-06T09:36:31.696-06:00","updated":"2025-01-06T09:36:31.697-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-2/","created":"2025-01-06T09:36:31.696-06:00","updated":"2025-01-07T15:20:18.078-06:00"}
 ---
 
-# cut 2: leaves (oak)
+## cut 2: leaves (oak)
 
-## background
+### background
 
 For my second cut I wanted to work a little on creating tone/shading, so I was looking for kind of a three-color image (black, white, gray). I also was thinking a lot about negative space. It's the time of year when trails are covered in fallen leaves, and while trail running I've been noticing how a bed of oak leaves has a lot of nice edges that would be fun to carve. I took a photo while on a run, where I hoped to catch a good amount of shadow: 
 
 I love the idea of losing myself in carving every detail of this, but that is not reality, as I just don't know how to create all those different tones. For this carve I initially tried to incorporate _some_ details of the "background" leaves, but I wasn't happy with any of it, so I just stuck with three "foreground" leaves, each with some shading.
 
 I'm using a Blick brand rubber block, I think it's meant to be a cheaper alternative to speedy-carve. It's gray.
-### outcome
+#### outcome
 yyyyiiiikkkesss this did not go well. I don't even have a photo to share. 
 
 Basically, I am really heavy handed with my roller, and I couldn't figure out the correct amount of ink or pressure to apply when inking. Any detail I carved was ruined by the third print, when I'd flooded the crevices. 
 
 I also learned that the entry-level Speedball water-based inks are impossible to work with. They dry out quickly...which is at least partially I think why I was so heavy-handed with it. 
 
-## things I learned along the way
+### things I learned along the way
 
-### carving
+#### carving
 
 - I tried to apply an acrylic wash to the block before carving. The tube of acrylic paint I used was _very old_, and I also think I made it to watery. I'll try again with less water, and a newer tube.
 	- It left the block streaky. Will this matter? Let's find out.
@@ -37,7 +37,7 @@ I also learned that the entry-level Speedball water-based inks are impossible to
 - I'm still trying to figure out how to do sharp corners. I always end up a little short or a little long, and then with a little wiggle/gouge right at the corner. I think it just takes practice, but I might explore using an exacto knife to shape the corners better before gouging them.
 - I'm not sure if I'm making things up or this is expected, but I have found that I want to strop the tiny V blade after each carving session (which lasts about an hour). It seems to help, I think, but again I'm not sure if I'm good enough to notice when I'm just making things up or getting sloppy with my technique. 
 
-### printing
+#### printing
 - eek, this blick block has a horribly uneven textured surface, and it shows up in every print. I guess this is the reason for the way-cheaper price. 
 - it also has sometimes-tapered edges, which are hard to print consistently. 
 - there seems to be a thin line between too much ink and too little ink. Too much saturates the crevices; too little leaves a lot of bare/sketchy spots. 

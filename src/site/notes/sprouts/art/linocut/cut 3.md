@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-3/","created":"2025-01-06T09:36:31.697-06:00","updated":"2025-01-06T09:36:31.697-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-3/","created":"2025-01-06T09:36:31.697-06:00","updated":"2025-01-07T15:51:46.107-06:00"}
 ---
 
 
-# cut 3: mark-making exercise
+## cut 3: mark-making exercise
 
 Borrowed from https://hughhadfield.com/2-1-linocuts/.
 
@@ -13,14 +13,14 @@ Borrowed from https://hughhadfield.com/2-1-linocuts/.
  Make a note in your learning log of which square has marks made by which tool
  Make notes about how you might use the different textures and cut lines to represent your ideas
 
-## things I learned along the way
+### things I learned along the way
 
-### carving
+#### carving
 - I'm using actual linoleum this time, so everything is different
 - I sanded the block _after_ I painted it. It removed some of the color but not too bad.
 - a shelf Iiner is great for keeping the lino from moving, but I still like having the bench hook under it so that I don't gouge my desk 😅
 - heating up by setting on the baseboard heater for a minute worked pretty well to soften it up.
-### printing
+#### printing
 - ternes burton pins/tabs are AMAZING, I like using them even on one color because it gives me the chance to line everything up before inking.
 - speedball fabric ink is working better for me than the speedball basic blockprinting ink
 	- it seemed to dry out less quickly 
@@ -37,7 +37,7 @@ Borrowed from https://hughhadfield.com/2-1-linocuts/.
 		4. Use another wet one & paper towel to finish cleaning.
 - too little ink is bad, too -- when I did this, the paper didn't stick, and I ended up smudging it all around while rubbing.
 
-## things for next time
+### things for next time
 - try carbon paper transfer?
 - not so many tiny details yet!
 - would love to have a baron

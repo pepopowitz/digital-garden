@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-06T13:03:52.888-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-07T15:18:25.918-06:00"}
 ---
-
 
 ## What is this digital garden?
 

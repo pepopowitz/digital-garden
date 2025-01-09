@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/00-this-is-the-dev-sprout/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-06T12:43:00.834-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/00-this-is-the-dev-sprout/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-07T15:18:09.607-06:00"}
 ---
-
-# This is the **dev** sprout.
 
 ## Current faves
 
