@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/aero-space/","tags":["macos","spaces","tools"],"created":"2025-01-16T07:46:19.255-06:00","updated":"2025-01-16T09:27:04.752-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/aero-space/","tags":["macos","spaces","tools"],"created":"2025-01-16T19:36:20.892-06:00","updated":"2025-01-16T21:05:15.244-06:00"}
 ---
 
 ## Why am I looking at AeroSpace?
@@ -17,7 +17,7 @@ I like it...I am one or two scriptable problems (I think) from loving it, and be
 **However**: I think it's unusable for me, because any time I go on a video call my computer basically freezes. Video call lag isn't an unusual experience for me even without aerospace running, but when it _is_ running, it's really really bad. Like unusable. This is even after a reboot.
 
 #### conclusion
-So, I'm moving on. I've looked at Amethyst and yabai as alternatives, and I think I'm going to give yabai a spin. Amethyst doesn't have enough programmability, and I don't think I can name my spaces. I don't think I can name my spaces with yabai either, but it has a ton of programmability, and I'm curious if that might be enough for me. I am concerned about having to turn off SIP, though that is all for a new sprout on yabai 😄.
+So, I think I'm stuck. I can't use AeroSpace because of the video issues. I've looked at Amethyst and yabai as alternatives, but I have issues with both of them. Amethyst doesn't have enough programmability, and I don't think I can name my spaces. yabai is a non-starter, because I am not going disable SIP on my work computer, and that's needed to control windows and spaces. Sad days.
 
 ## Initial intrigue
 - this video made me HYPED to try it out: https://www.youtube.com/watch?v=xdHPmChLVl0&t=2m50s
