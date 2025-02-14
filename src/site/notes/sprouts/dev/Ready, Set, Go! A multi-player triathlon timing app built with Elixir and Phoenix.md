@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/ready-set-go-a-multi-player-triathlon-timing-app-built-with-elixir-and-phoenix/","created":"2025-02-14T11:42:39.892-06:00","updated":"2025-02-14T14:53:58.566-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/ready-set-go-a-multi-player-triathlon-timing-app-built-with-elixir-and-phoenix/","created":"2025-02-14T11:42:39.892-06:00","updated":"2025-02-14T15:09:19.440-06:00"}
 ---
 
 In the summer of 2024, I built an app to time a triathlon that I helped organize at a company retreat. I called it Ready, Set, Go! and built it using the Elixir language and Phoenix framework. Here are some notes about it.
@@ -32,7 +32,7 @@ Note that my hosting plan is on the free tier, and occasionally the app turns of
 - There were many timing challenges introduced by things like the layout of the resort and the day's schedule.
 	- The pool was located _near_ the cycling room, but still required a 200m transition from swim to bike. This meant the timer at the swim could not also be the timer for the bike.
 	- The lap pool only had two lanes, and we had ~30 people interested, so we could not have everyone start their swim at the same time. 
-		- The best we could do is [a serpentine format][https://camelbackcoaching.com/blog-news/the-serpentine-swim/], where swimmers start in a time-trial format, a few seconds apart from each other. Each side of each lane is one direction only, and swimmers zig-zag their way from right-to-left (or left-to-right) at the end of each length.
+		- The best we could do is [a serpentine format](https://camelbackcoaching.com/blog-news/the-serpentine-swim/), where swimmers start in a time-trial format, a few seconds apart from each other. Each side of each lane is one direction only, and swimmers zig-zag their way from right-to-left (or left-to-right) at the end of each length.
 	- The bike room contained 8 stationary bikes. We had to restrict the number of athletes on that part of the course, and we chose to do so by releasing athletes in waves.
 	- We did not want the running course to finish at the pool, for fear of someone slipping. We also did not want to finish it at the bike room, as it was an inconvenient location for fans. This meant that the timer at the end of the run could not also be the timer for the bike, _or_ the timer for the swim. We're up to 3 timers.
 	- With other events happening at the same time, some athletes preferred to start early, and some preferred to start late. This combined well with our waved start.
