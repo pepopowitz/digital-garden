@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-06T09:36:31.698-06:00","updated":"2025-01-07T15:18:25.918-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/my-digital-garden/","created":"2025-01-07T15:59:33.806-06:00","updated":"2025-01-16T21:11:34.116-06:00"}
 ---
 
 ## What is this digital garden?
@@ -31,6 +31,8 @@
 	- I still don't know why but I struggled with specificity on the header h1. I had to give the element a class in order to target it without the base CSS being somehow more specific.
 - [x] Prove in Obsidian that I can easily create content here & link to it from my daily notes
 - [x] Fix contrast of search results
+- [ ] Issue: having the notes repo open on multiple computers results in them fighting over timestamps.
+	- this plugin might help: https://github.com/lighthousedino/obsidian-front-matter-timestamps
 - [ ] Meta tags & opengraph data
 	- see https://dg-docs.ole.dev/advanced/note-specific-settings/#metatags
 - [ ] Social sharing image

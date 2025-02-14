@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-06T11:23:51.041-06:00","updated":"2025-01-07T15:18:15.220-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/better-mac-os-windows-and-spaces/","tags":["ramblings","macos","spaces"],"created":"2025-01-07T15:59:33.804-06:00","updated":"2025-01-16T21:20:23.258-06:00"}
 ---
 
 The macOS Spaces implementation and I go way back. I have had a love/hate relationship with Spaces since owning my first mac. On the one hand, Spaces presents a seductive interface that aligns with my mental model of how I want to organize my desktop. On the other hand, it takes about 3 minutes of usage to discover that it was implemented as an MVP, and the product team was obviously disbanded after the first release and no improvements have been made.
@@ -77,3 +77,9 @@ They had me at "Native macOS Spaces have a lot of problems":
 I have a few things I'd add to that list (can't name a space, rebooting resets spaces for some apps but not others, ...) but **omg AeroSpace you are speaking my language**. I have a dream of being able to spin up spaces willy nilly as I start tasks, and I have yet to find anything that remotely made this possible.
 
 Is this the thing I need in my life? I'll update with my findings at [[sprouts/dev/AeroSpace\|AeroSpace]].
+
+### Conclusion (from [[sprouts/dev/AeroSpace\|AeroSpace]])
+
+Nope, it's not the answer. I do like it, a lot, and I think it is hackable enough to solve the problems I have with native spaces. Unfortunately, my system basically stops when I'm doing a video call and have AeroSpace running. I also looked at a couple other options, both dead ends for me. Amethyst doesn't do enough to address my problems with native spaces; yabai requires disabling SIP, which I am not planning to do on my work laptop anytime soon.
+
+So I am stalled on this subject for now.

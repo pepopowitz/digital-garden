@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/aero-space/","tags":["macos","spaces","tools"],"created":"2025-01-16T19:36:20.892-06:00","updated":"2025-01-16T21:05:15.244-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/aero-space/","tags":["macos","spaces","tools"],"created":"2025-01-16T19:36:20.892-06:00","updated":"2025-01-21T12:55:36.594-06:00"}
 ---
 
 ## Why am I looking at AeroSpace?
@@ -51,7 +51,6 @@ So, I think I'm stuck. I can't use AeroSpace because of the video issues. I've l
 	- I also can't assign anything except `1`:`1` to space `1`. 
 	- But I could make `2:2(Comms)`, and I guess that's the standard I'm rolling with.
 	- Parentheses in the name seem to be okay. Spaces are not.
-
 ### ❌👎 do workspaces retain across computer restarts? 
 - **NO!!!** This is seriously horrible. With native macos spaces, it's not perfect, but many windows _are_ retained across spaces -- browsers are the notable offender, and I have to move them all after a restart. But having to re-associate _every single window_??? That sounds horrible.
 	- Maybe I could script this? While browsers tend to be mis–associated when a restart occurs and I'm using native macos spaces, most other windows _are_ retained across restarts
@@ -64,7 +63,6 @@ So, I think I'm stuck. I can't use AeroSpace because of the video issues. I've l
 - yes, weird things happen.
 - I'm at a stage right now where I need to commit. The tool benefits from using only one native Macos Space, but I am afraid to close all my spaces because it takes so long to sort them 😭.
 	- Update: I did it, I closed all native spaces, and restarted. It did not work out as well as I'd hoped, see notes above re: retaining workspaces across reboots. 
-
 ### 🤔 Re: restarts & recovering workspace association via scripting
 - I think this might be doable. Listing all windows shows that there are many that I can infer enough information from the description to know what to do with them.
 	- run `aerospace list-windows --workspace 1` to see open windows on space 1
@@ -77,27 +75,26 @@ So, I think I'm stuck. I can't use AeroSpace because of the video issues. I've l
 		- `193 | Microsoft Edge | Aerospace Is The Best... - YouTube - Microsoft Edge - steven.j.hicks`
 		- `201 | Microsoft Edge | Form | Raycast API - Microsoft Edge - 2 rad dads`
 	- I could also write a script to capture all open windows and the spaces they are associated with, and write it to a file, so that on restart another script can do its best interpretation of where windows belong.
+- Actually this proved to be a major pain in the ass, as I had to restart aerospace occasionally due to cpu slamming that may or may not have been caused by AeroSpace. Sorting windows into spaces is time consuming, annoying, and it sucks. Thought it's probably not much different than having to do it with native spaces. 
 ### ❓ how can I view all apps running on the current space? Like mission control.
 - Mission control doesn't work because it shows everything in the _native_ space, which is _everything_.
 - I don't see a built-in command (which I'm not even sure where that would present me all the windows anyway). I started thinking about how I could transfer the results of `aerospace list-windows` into a UI, and realized raycast would be a good way to do that.....then realized [the aerospace raycast extension](https://www.raycast.com/limonkufu/aerospace) exists, and does exactly this!!! Looking forward to trying it out.
 	- OH MY GOD I LOVE THIS. I linked the "windows in workspace" command to alt-tab, so now switching apps in either a tiled or floating layout is easy peasy. Plus, search is built into raycast, so I can filter down to the app I really want, quickly.
-### misc thoughts
+### 🤔 default shortcuts can and should be changed
+- I switched my pattern from alt-{workspace} and alt-shift-{workspace} to ctrl-alt-{workspace} and ctrl-alt-shift-{workspace}. I did this because I want to work toward using divvy for tiling but aerospace for workspaces, and I got confused and thought my divvy shortcuts all used alt. They don't -- they all use cmd -- but I didn't realize that until after I'd already switched. Oh well, let's see how this goes.
+	- It went well! So well that I also switched a bunch of other commands, to make sure things like "moving a window" had the same modifiers, which they didn't out of the box.
+	- I also moved the "join with direction" commands out of service mode, because I want them to be easier to get to.
+	- In general, I think it's important for specific types of actions to share modifiers. I don't think that's the default key bindings with AeroSpace, but I'm so separated from the out of the box settings that I can't say exactly why. All I can say is that things that _move_ windows should all share modifiers, and things that _focus_ windows should all share modifiers, and I shouldn't have to think about which is which.
+- 👍 Duh, I replaced the shortcuts for next/prev workspace with the ones I use for native spaces. This freed up the N & P workspaces.
 - 👎 I miss the trackpad swiping to a different space.
 	- I could learn to be okay with this. alt-p and alt-n (for previous and next) are just as easy.
+### 🪟 some negative thoughts about windows
 - 👎 is there a way to make it tile things in a more useful way? With a balanced tree that shows both horizontal and vertical sets, like splitting the screen into quadrants. I hate having to manually create this.
-- 👍 Duh, I replaced the shortcuts for next/prev workspace with the ones I use for native spaces. This freed up the N & P workspaces.
-- 🤷 I did it. I switched my pattern from alt-{workspace} and alt-shift-{workspace} to ctrl-alt-{workspace} and ctrl-alt-shift-{workspace}. I did this because I want to work toward using divvy for tiling but aerospace for workspaces, and I got confused and thought my divvy shortcuts all used alt. They don't -- they all use cmd -- but I didn't realize that until after I'd already switched. Oh well, let's see how this goes.
-	- Future me, it went well! So well that I also switched a bunch of other commands, to make sure things like "moving a window" had the same modifiers, which they didn't out of the box.
-	- I also moved the "join with direction" commands out of service mode, because I want them to be easier to get to.
 - 👎 Innnnteresting. The cmd-backtick shortcut, which I use to switch browser windows in native spaces, crosses aerospace workspaces. In native spaces, it only visits browser windows on the current space. I don't think I like this. (Same thing with any other app, like VS Code.)
-- 💪 I wrote this script to toggle all windows on the current space between tiling and floating. I will link this to a command in service mode, so that I can completely "reset" a space on demand.
-	- `aerospace list-windows --workspace focused | awk -F '|' '{print $1}' | xargs -I {} aerospace layout --window-id {} tiling floating`
-- ❗One thing that's been bothering me is that I can't view windows in the current space. Mission control doesn't work well with it, and I don't see a built-in command (which I'm not even sure where that would present me all the windows anyway). I started thinking about how I could transfer the results of `aerospace list-windows` into a UI, and realized raycast would be a good way to do that.....then realized [the aerospace raycast extension](https://www.raycast.com/limonkufu/aerospace) exists, and does exactly this!!! Looking forward to trying it out.
-	- OH MY GOD I LOVE THIS. I linked the "windows in workspace" command to alt-tab, so now switching apps in either a tiled or floating layout is easy peasy. Plus, search is built into raycast, so I can filter down to the app I really want, quickly.
+### 💻 different spaces across different machines?
 - 🤔 My biggest remaining concern is, I want to share my aerospace config in my dotfiles....but I want the space names to differ across machines. 
 	- Can I have it import a subset of the config from a separate file, which isn't included in dotfiles?
-	- I also have the concern from above re: restoring workspaces after reboot, but that's more future looking and less urgent.
-		- Actually this proved to be a major pain in the ass, as I had to restart aerospace occasionally due to cpu slamming that may or may not have been caused by AeroSpace. Sorting windows into spaces sucks. 
+
 
 ## helpful commands
 - get current workspace name:
