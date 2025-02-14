@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/dev/ready-set-go-a-multi-player-triathlon-timing-app-built-with-elixir-and-phoenix/","created":"2025-02-14T11:42:39.892-06:00","updated":"2025-02-14T12:44:35.072-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/dev/ready-set-go-a-multi-player-triathlon-timing-app-built-with-elixir-and-phoenix/","created":"2025-02-14T11:42:39.892-06:00","updated":"2025-02-14T14:50:25.212-06:00"}
 ---
 
 In the summer of 2024, I built an app to time a triathlon that I helped organize at a company retreat. I called it Ready, Set, Go! and built it using the Elixir language and Phoenix framework. Here are some notes about it.
@@ -48,3 +48,4 @@ Note that my hosting plan is on the free tier, and occasionally the app turns of
 - It should be easy to find an athlete in the app while timing them.
 - Times should update every second, so we can see an accurate elapsed time for everyone.
 
+[serpentine-swim][https://camelbackcoaching.com/blog-news/the-serpentine-swim/]
