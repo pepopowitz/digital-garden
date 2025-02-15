@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-4/","created":"2025-01-06T09:36:31.697-06:00","updated":"2025-01-07T15:52:07.053-06:00"}
+{"dg-publish":true,"permalink":"/sprouts/art/linocut/cut-4/","created":"2025-01-07T15:59:33.802-06:00","updated":"2025-01-07T15:59:33.802-06:00"}
 ---
 
 
